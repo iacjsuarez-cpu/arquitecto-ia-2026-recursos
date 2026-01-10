@@ -10,9 +10,13 @@ Bienvenido al centro de recursos de ingeniería del eBook. Este repositorio cont
 * 📑 **[Guía de Implementación y Enlace a Miro](./capitulo-01/README.md)**: Accede al Canvas dinámico para clonar el sistema en tu propia cuenta.
 * 🖼️ **[Esquema Técnico de Alta Resolución](./blueprint-arquitecto-ia-v2026.jpg)**: Referencia estática del sistema "Titan Real Estate".
   
-* ⚡ **Capítulo 02:** [Estructura de Prompt Maestro (XML-Tagging)](./capitulo-02/prompt-maestro-cap2.md).
 ---
 
+## 📍 Acceso Rápido: Capítulo 2
+
+* ⚡ **Capítulo 02:** [Estructura de Prompt Maestro (XML-Tagging)](./capitulo-02/prompt-maestro-cap2.md).
+
+---
 ## 🚀 Contenido Destacado
 * **Capítulo 1:** Mapeo de lógica soberana y Triángulo de Performance (GPT-4o, Claude 3.5, Gemini 1.5).
 * **Capítulo 2:** Estructura de Prompt Maestro con metodología XML-Tagging.
