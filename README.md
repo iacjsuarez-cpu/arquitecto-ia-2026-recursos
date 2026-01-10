@@ -15,6 +15,7 @@ Bienvenido al centro de recursos de ingeniería del eBook. Este repositorio cont
 ## 📍 Acceso Rápido: Capítulo 2
 
 * ⚡ **Capítulo 02:** [Estructura de Prompt Maestro (XML-Tagging)](./capitulo-02/prompt-maestro-cap2.md).
+* * 🔍 **Auditoría:** [Checklist de Seguridad para tu Prompt](./capitulo-02/AUDITORIA_DE_PROMPT.md).
 
 ---
 ## 🚀 Contenido Destacado
